@@ -17,15 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2017: Intern 
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Intern at SAS Institute
+  * Worked on parallel MCMC techniques
+  * Presented a paper on Bayesian program learning at intern poster session
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
