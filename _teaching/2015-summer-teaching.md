@@ -10,11 +10,3 @@ location: "Durham, NC"
 
 I was a TA for [STA 101](http://stat.duke.edu/courses/STA101), an intensive introductory statistics course during the summer term.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
