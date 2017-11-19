@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Statistics"
   location         : "Duke University"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hs182@duke.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
