@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Actuarial Science, Hong Kong University, 2014
-* M.S. in Statistics, Duke University, 2016
+* B.S. in Actuarial Science, University of Hong Kong, 2014
+* M.S. in Statistics, Duke University, 2017
 * Ph.D in Statistics, Duke University, 2021 (expected)
 
 Work experience
