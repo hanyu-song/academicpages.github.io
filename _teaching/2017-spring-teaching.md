@@ -2,7 +2,7 @@
 title: "TA for STA 663"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2016-spring-teaching
+permalink: /teaching/2017-spring-teaching
 venue: "Duke University"
 date: 2017-01-01
 location: "Durham, NC"
