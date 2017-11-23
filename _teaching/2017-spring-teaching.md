@@ -1,5 +1,5 @@
 ---
-title: "STA 663: Statistical Computing in Python
+title: "STA 663: Statistical Computing in Python"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-spring-teaching
