@@ -24,5 +24,5 @@ Work experience
   
 Skills
 ======
-* Programming experience in MatLab, R, and Python. 
+* Programming experience in MATLAB, R, and Python. 
 
