@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2017: Intern at SAS Institute
+* Summer 2017: Intern at SAS Institute Inc.
   * Worked on parallel MCMC techniques
   * Presented a paper on Bayesian program learning at intern poster session
 
