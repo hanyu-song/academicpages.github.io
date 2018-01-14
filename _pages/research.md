@@ -12,7 +12,8 @@ As we have entered the era of big data, I feel that statistics needs to find way
 ## Projects
 
 # Scalable Clustering
-I am currently working on techniques scalable Bayesian clustering. Bayesian clustering can be done using mixture models or Bayesian non-parametrics, but there are still unresolved challenges. For instance, MCMC suffers from the label-switching problem, where the cluster labels switch because the model is not identified. This problem makes inference challenging. In addition, when attempting to cluster in parallel, we must consider how to align the clusters across nodes. These are both challenging problems that I very much enjoy working on. 
+
+In many modern applications, there is interest in analyzing enormous datasets that cannot be easily moved across computers or loaded into memory on a single computer.  In such settings, it is very common to be interested in clustering.  However, simple divide-and-conquer approaches are not appropriate for clustering problems in that clusters are inherently describing relationships in all the data points.  Currently we are developing a model-based Bayesian approach to clustering.  Our goal is to develop a computationally efficient algorithm that is nearly embarrassingly parallel and avoids moving individual data between computing nodes.  
 
 
 # Scalable Variable Selection
